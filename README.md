@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @iEddydavid
 - 👀 I’m interested in crypto/blockchain/deFi projects
 - 🌱 I’m currently learning smart contract development
-- 💞️ I’m looking to collaborate on DeFi project 
+- 💞️ I’m looking to collaborate with DeFi projects
 - 📫 How to reach me (edidiongdavid187@gmail.com)
 
 <!---
